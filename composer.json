@@ -1,0 +1,11 @@
+{
+    "name": "king192/testcomposer",
+    "description": "test for composer",
+    "authors": [
+        {
+            "name": "xhq",
+            "email": "1293812979@qq.com"
+        }
+    ],
+    "require": {}
+}
